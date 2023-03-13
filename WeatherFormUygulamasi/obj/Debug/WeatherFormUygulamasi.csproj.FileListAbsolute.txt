@@ -1,0 +1,11 @@
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\bin\Debug\WeatherFormUygulamasi.exe.config
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\bin\Debug\WeatherFormUygulamasi.exe
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\bin\Debug\WeatherFormUygulamasi.pdb
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.csproj.AssemblyReference.cache
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.Form1.resources
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.Properties.Resources.resources
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.csproj.GenerateResource.cache
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.exe
+C:\Users\NURGÜL\source\repos\WeatherFormUygulamasi\WeatherFormUygulamasi\obj\Debug\WeatherFormUygulamasi.pdb
